@@ -1,7 +1,7 @@
 using System;
 
 namespace ProjectEuler {
-    class ProblemTwo {
+    class ProblemThree {
         static void Main(string[] args) {      
             Console.WriteLine(LargestPrimeFactor(600851475143));
         }
