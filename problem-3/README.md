@@ -1,5 +1,6 @@
 # Project Euler Problem Three
-Link to problem: https://projecteuler.net/problem=2
+Link to problem: https://projecteuler.net/problem=3
+
 This one is interesting as it is quite a simple function when you understand it. There's several different approaches for this that I used.
 1. Function to find the greatest prime factor
    1. This one uses one function to do all the work, however it is perhaps the least intuative one just looking at it

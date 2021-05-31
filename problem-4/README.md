@@ -1,2 +1,4 @@
 # Project Euler Problem Four
+Link to problem: https://projecteuler.net/problem=4
+
 This is a really interesting problem, as at first I thought it required string reversal, which is harder in languages like C. Then I found a clever solution online, where it uses maths to reverse all the digits in a number without requiring a language to have a concept of strings, although I still kept some of the solutions using my original string method. For this problem I have two favorites, being Haskell and the Python list comprehension solution, as the Haskell one is easy to read unlike my Haskell answer for problem 3, and the Python list comprehension one is a one liner, although it's technically not a list comprehension and actually a generator but oh well.
